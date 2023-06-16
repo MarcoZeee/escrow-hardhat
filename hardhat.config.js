@@ -7,10 +7,4 @@ module.exports = {
   paths: {
     artifacts: "./app/src/artifacts",
   },
-  netwroks: {
-    goerli: {
-      url: GOERLI_URL,
-      accounts: [PRIVATE_KEY],
-    },
-  },
 };
